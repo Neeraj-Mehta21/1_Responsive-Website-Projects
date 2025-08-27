@@ -1,1 +1,2 @@
-# 1_Responsive-Website-Projects
+# Projects:
+1) Color Palette
